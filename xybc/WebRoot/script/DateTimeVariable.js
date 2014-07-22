@@ -1,0 +1,16 @@
+var varFontFamily		="\u5b8b\u4f53";
+var varFontSize			="12";
+var varTipSelectYear	="\u70b9\u51fb\u6b64\u5904\u9009\u62e9\u5e74\u4efd";
+var varTipSelectMonth	="\u70b9\u51fb\u6b64\u5904\u9009\u62e9\u6708\u4efd";
+var varSunday			="\u65e5";
+var varMonday			="\u4e00";
+var varTuesday			="\u4e8c";
+var varWednesday		="\u4e09";
+var varThirsday			="\u56db";
+var varFriday			="\u4e94";
+var varSaturday			="\u516d";
+var varYear				="\u5e74";
+var varMonth			="\u6708";
+var varClear			="\u6e05\u7a7a";
+var varOK				="\u786e\u5b9a";
+var varClose			="\u5173\u95ed";

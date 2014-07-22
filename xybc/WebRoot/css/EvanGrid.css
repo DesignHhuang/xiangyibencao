@@ -1,0 +1,126 @@
+
+
+/*  for grid component */
+.resizeDivClass{
+	position:relative;
+  	background-color:white;
+	filter:alpha(Opacity=30);
+	width:3px;
+	height:20px;
+	z-index:1;
+	left:expression(this.parentElement.offsetWidth-2);
+	cursor:col-resize;
+	float:inherit;
+}
+.resizeBigDivClass{
+	position:relative;
+  	background-color:white;
+	filter:alpha(Opacity=50);
+	width:3px;
+	height:42px;
+	z-index:1;
+	left:expression(this.parentElement.offsetWidth-2);
+	cursor:col-resize;
+	float:inherit;
+}
+.alignCenter{
+	width:expression(this.parentElement.offsetWidth-5);
+	text-align:center;
+	text-overflow:ellipsis;
+	-o-text-overflow:ellipsis;
+	white-space:nowrap;
+	overflow:hidden;
+	float:inherit;
+	padding-bottom:3px;
+}
+.alignLeft{
+	width:expression(this.parentElement.offsetWidth-5);
+	text-align:left;
+	text-overflow:ellipsis;
+	-o-text-overflow:ellipsis;
+	white-space:nowrap;
+	overflow:hidden;
+	float:inherit;
+	padding-bottom:3px;
+}
+.alignRight{
+	width:expression(this.parentElement.offsetWidth-5);
+	text-align:right;
+	text-overflow:ellipsis;
+	-o-text-overflow:ellipsis;
+	white-space:nowrap;
+	overflow:hidden;
+	float:inherit;
+	padding-bottom:3px;
+}
+.interleaveColor {
+	background-color:#EEF5FE
+}
+#dataTable {
+	padding:0px 1px;
+	width:100%;
+}
+#theObjTable  {
+	border-collapse:collapse;
+	border:1px solid #959595;
+	table-layout:fixed;
+}
+#dataArea td{
+	text-overflow:ellipsis;
+	-o-text-overflow:ellipsis;
+	white-space:nowrap;
+	display:block;
+	overflow:hidden;
+	border-right:1px solid #b3d3ef;
+	/*border-bottom:1px solid #C8E7FB;*/
+	padding:3px;
+}
+#dataTable th{
+	height:20px;
+	/*font-weight:normal;*/
+	text-overflow:ellipsis;
+	-o-text-overflow:ellipsis;
+	white-space:nowrap;
+	display:block;
+	overflow:hidden;
+	background-image:url(../images/grid_head.gif);
+	border-right:1px solid #94a8cd;
+	/*border-bottom:2px ridge #BDD8FF;*/
+	border-bottom:1px solid #959595;
+	background-color:#CAD9EC;
+	cursor:default;
+}
+#dataTable .pagination {
+	border-top:1px solid #bebebe;
+	height:22px;
+	background-color:#ddefff;
+}
+#dataTable .floatLeft {
+	text-overflow:ellipsis;
+	-o-text-overflow:ellipsis;
+	white-space:nowrap;
+	overflow:hidden;
+	float:left;
+}
+#dataTable .floatRight {
+	text-overflow:ellipsis;
+	-o-text-overflow:ellipsis;
+	white-space:nowrap;
+	overflow:hidden;
+	float:right;
+}
+#dataTable .currentPage {
+	font-weight:bold;
+	color:red;
+	font-size: 14px;
+	padding:1px 4px;
+}
+#dataTable .goNumber {
+	border:1px solid #4b81c8;
+	background-color:#FFFFFF;
+	font-size:12px;
+	height:15px;
+	line-height:12px;
+	width:22px;
+	font-family: Tahoma,Verdana,Verdana, sans-serif;
+}

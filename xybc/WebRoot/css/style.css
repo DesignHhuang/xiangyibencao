@@ -1,0 +1,277 @@
+UNKNOWN {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+BODY {
+	background-color:#f1f1f1; SCROLLBAR-FACE-COLOR: #cccccc; FONT-SIZE: 11pt; SCROLLBAR-HIGHLIGHT-COLOR: #dddddd; SCROLLBAR-SHADOW-COLOR: #84838f; COLOR: #000000; SCROLLBAR-3DLIGHT-COLOR: #84838f; SCROLLBAR-ARROW-COLOR: #84838f; SCROLLBAR-TRACK-COLOR: #cccccc; FONT-FAMILY: Verdana; SCROLLBAR-DARKSHADOW-COLOR: #666666
+}
+A:active {
+	FONT: 11px Verdana; COLOR:#000000; TEXT-DECORATION: none
+}
+A:link {
+	FONT: 11px Verdana; COLOR: #000000; TEXT-DECORATION: none
+} 
+A:visited {
+	FONT: 11px Verdana; COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.tdTitle {
+	vertical-align:bottom;color: #003399;font-size:14px;font-weight:bold;
+}
+TABLE {
+	FONT: 11px Verdana; COLOR: #000000; TEXT-DECORATION: none
+}
+.tda01 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt; COLOR: #8a889d
+}
+.tda02 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: #8a889d
+}
+.tda03 {
+	FONT: 12px Verdana; COLOR: #000000;
+}
+.tda04 {
+	FONT-SIZE: 12pt; COLOR: #5a5a80
+}
+.tda05 {
+	FONT-SIZE: 12pt; COLOR: #000000
+}
+.tda06 {
+	FONT-SIZE: 12pt; COLOR: #564766
+}
+.tda07 {
+	BORDER-RIGHT: #93e7fb 1px solid; BORDER-TOP: #93e7fb 1px solid; BORDER-LEFT: #93e7fb 1px solid; BORDER-BOTTOM: #93e7fb 1px solid; BACKGROUND-COLOR: #dadde3
+}
+.tda08 {
+	BORDER-RIGHT: #93e7fb 1px solid; BORDER-TOP: #93e7fb 1px solid; BORDER-LEFT: #93e7fb 1px solid; BORDER-BOTTOM: #93e7fb 1px solid
+}
+.tda09 {
+	BACKGROUND-COLOR: #EEECEB
+}
+.tda10 {
+	BORDER-RIGHT: #2f2b28 1px solid; BORDER-TOP: #2f2b28 1px solid; BORDER-LEFT: #2f2b28 1px solid; BORDER-BOTTOM: #2f2b28 1px solid; BACKGROUND-COLOR: #F1F1F1
+}
+.tda11 {
+	BORDER-RIGHT: #919B9C 1px solid; BORDER-TOP: #919B9C 1px solid; BORDER-LEFT: #919B9C 1px solid; BORDER-BOTTOM: #919B9C 1px solid; BACKGROUND-COLOR: #F1F1F1
+}
+.tdaemail01 {
+	FONT: 11px Verdana; COLOR: #585858; BORDER-RIGHT: #6A6D60 1px solid; BORDER-TOP: #FFFFFF 1px solid; BORDER-LEFT: #FFFFFF 1px solid; BORDER-BOTTOM: #6A6D60 1px solid; BACKGROUND-COLOR: #DCDCDC
+}
+.tdaemail02 {
+	FONT: 11px Verdana; COLOR: #000000; BORDER-RIGHT: #6A6D60 1px solid; BACKGROUND-COLOR: #FFFFFF
+}
+.tda12 {
+	FILTER: dropshadow(color=#EEECEB, offx=1, offy=1); COLOR: #707070
+}
+.tda13 {
+	COLOR: #717070; BACKGROUND-COLOR: #ECEBEB
+}
+.tda13b {
+	COLOR: #717070; BACKGROUND-COLOR: #E0DFDF
+}
+.tda14 {
+	COLOR: #606060; BACKGROUND-COLOR: #EEECEB
+}
+.tda15 {
+	FONT-SIZE: 9pt; COLOR: #ffffff
+}
+.tda16 {
+	FONT: 11px Verdana; COLOR: #ffffff; BACKGROUND-COLOR: #5e5e5e
+}
+.tdaQ {
+	FONT-SIZE: 12pt; COLOR: #ff0000
+}
+.tdaA {
+	FONT-SIZE: 12pt; COLOR: #0000ff
+}
+.box01 {
+	 padding:1px 2px 1px 2px; BORDER-RIGHT: #8a889d 1px solid; BORDER-TOP: #8a889d 1px solid; FONT: 11px Verdana; BORDER-LEFT: #8a889d 1px solid; BORDER-BOTTOM: #8a889d 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.box02 {
+	PADDING-RIGHT: 0.25em;
+	PADDING-LEFT: 0.25em;
+	PADDING-BOTTOM: 0.2em;
+	WIDTH: auto;
+	PADDING-TOP: 0.15em;
+	HEIGHT: auto;
+	border: 1px solid #8A889D;
+	FONT: 11px Verdana;
+}
+.box03 {
+	FONT: 11px Verdana; background-color: #ffffff;
+}
+.box04 {
+	FONT: 11px Verdana; BACKGROUND-COLOR: #ffffff
+}
+div.tableContainer {
+ clear: both;
+ height: 200px;
+ overflow: auto;
+ width: 100%;
+}
+ 
+
+
+html div.tableContainer {
+ padding: 0 16px 0 0+9
+}
+ 
+
+html>body div.tableContainer {
+ height: auto;
+ padding: 0;
+ width: 740px
+}
+ 
+
+head:first-child+body div[class].tableContainer {
+ height: 200px;
+ overflow: hidden;
+ width: 756px
+}
+ 
+
+div.tableContainer table {
+ float: left;
+ width: 100%
+}
+ 
+html div.tableContainer table {
+ margin: 0 -16px 0 0
+}
+.menuBox {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #666666 1px solid
+}
+.lab {
+	BORDER-RIGHT: #2f2b28 1px solid; BORDER-TOP: #2f2b28 1px solid; BORDER-LEFT: #2f2b28 1px solid; BORDER-BOTTOM: #2f2b28 1px solid; BACKGROUND-COLOR: #ABC3DC
+}
+.lab2 {
+	FONT: 11px Verdana; COLOR: #000000; BACKGROUND-COLOR: #ABC3DC
+}
+.lab3 {
+	COLOR: #000000; BACKGROUND-COLOR: #EBEBEB
+}
+.lab4 {
+	COLOR: #000000; BACKGROUND-COLOR: #ffffff
+}
+.lab5 {
+	COLOR: #000000; BACKGROUND-COLOR: #f1f1f1	
+}
+.textReadonly {
+	padding:1px 2px 1px 2px; BORDER-RIGHT: #8a889d 1px solid; BORDER-TOP: #8a889d 1px solid; FONT: 11px Verdana; BORDER-LEFT: #8a889d 1px solid; BORDER-BOTTOM: #8a889d 1px solid; BACKGROUND-COLOR: #F1F1F1
+}
+.textReadonlyMain {
+	PADDING-RIGHT: 0.25em;
+	PADDING-LEFT: 0.25em;
+	PADDING-BOTTOM: 0.2em;
+	WIDTH: auto;
+	PADDING-TOP: 0.15em;
+	HEIGHT: auto;
+	border: 1px solid #8A889D;
+	BACKGROUND-COLOR: #F1F1F1
+}
+.font {
+	color: #5B628E;
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 22px;
+	TEXT-DECORATION: none
+}
+.font:link {
+	color: #5B628E;
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 22px;
+	TEXT-DECORATION: none
+}
+.font:visited {
+	color: #5B628E;
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 22px;
+	TEXT-DECORATION: none
+}
+.font:hover {
+	color: #C5D9FA;
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 22px;
+	TEXT-DECORATION: underline
+}
+.font1 {
+	color: #004080;
+	font-size: 11px;
+	line-height: 22px;
+	TEXT-DECORATION: none
+}
+.font1:link {
+	color: #004080;
+	font-size: 11px;
+	line-height: 22px;
+	TEXT-DECORATION: none
+}
+.font1:visited {
+	color: #004080;
+	font-size: 11px;
+	line-height: 22px;
+	TEXT-DECORATION: none
+}
+.font1:hover {
+	color: #98ABD6;
+	font-size: 11px;
+	line-height: 22px;
+	TEXT-DECORATION: underline
+}
+.font2 {
+	color: #0C4FBA;
+	font-family: "????????", "Arial";
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 22px;
+	TEXT-DECORATION: none
+}
+.font2:link {
+	color: #0C4FBA;
+	font-family: "????????", "Arial";
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 22px;
+	TEXT-DECORATION: none
+}
+.font2:visited {
+	color: #0C4FBA;
+	font-family: "????????", "Arial";
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 22px;
+	TEXT-DECORATION: none
+}
+.font2:hover {
+	color: #0C4FBA;
+	font-family: "????????", "Arial";
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 22px;
+	TEXT-DECORATION: underline
+}
+.lab1a {
+	BORDER-LEFT: #585951 1px solid;
+}
+.lab1b {
+	BORDER-RIGHT: #C0D0DA 1px solid; BORDER-LEFT: #C0D0DA 1px solid; BORDER-BOTTOM: #C0D0DA 1px solid;
+}
+.lab1c {
+	BORDER-RIGHT: #43403D 1px solid; BORDER-LEFT: #43403D 1px solid; BORDER-BOTTOM: #43403D 1px solid;
+}
+thead .arrow{font-family: webdings; color: black; padding: 0; font-size: 10px;
+			height: 11px; width: 10px; overflow: hidden;
+			margin-bottom: 2; margin-top: -3; padding: 0; padding-top: 0; padding-bottom: 2;}
+			/*nice vertical positioning :-) */
+.lab3_3 {
+	COLOR: #FF0000; BACKGROUND-COLOR: #EBEBEB
+}
